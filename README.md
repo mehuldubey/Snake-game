@@ -1,5 +1,5 @@
 # Snake-game
-It is simle snake game based on pygame(python 2.7)
+It is simple snake game based on pygame(python 2.7)
 
 ## How to use
 It is simple to use. First install the dependencies and then run the main file.
@@ -22,3 +22,4 @@ After running the python file you will get a UI where you will get some instruct
 *Note:* Use up/down/right/left keys to move snake.
 
 Feel free to update/suggest/contribute new features in game.
+You can suggest some methods to spread this game at large platform with more users and with more advanced features.
